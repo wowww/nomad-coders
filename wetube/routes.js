@@ -1,5 +1,3 @@
-import userRouter from "./routers/userRouter";
-
 // Global
 const HOME = "/";
 const JOIN = "/join";
