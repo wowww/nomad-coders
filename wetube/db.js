@@ -4,7 +4,7 @@ export const videos = [
     title: 'Video awesome',
     description: 'This is somthing I love',
     views: 24,
-    videoFile: "httis://acrchive.org/details/BigBuckBunny_124",
+    videoFile: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     creator: {
       id: 121212,
       name: "Lia",
@@ -16,7 +16,7 @@ export const videos = [
     title: 'Video super',
     description: 'This is somthing I love',
     views: 24,
-    videoFile: "httis://acrchive.org/details/BigBuckBunny_124",
+    videoFile: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     creator: {
       id: 121212,
       name: "Lia",
@@ -28,7 +28,7 @@ export const videos = [
     title: 'Video nice',
     description: 'This is somthing I love',
     views: 24,
-    videoFile: "httis://acrchive.org/details/BigBuckBunny_124",
+    videoFile: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     creator: {
       id: 121212,
       name: "Lia",
@@ -40,7 +40,7 @@ export const videos = [
     title: 'Video perfect',
     description: 'This is somthing I love',
     views: 24,
-    videoFile: "httis://acrchive.org/details/BigBuckBunny_124",
+    videoFile: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     creator: {
       id: 121212,
       name: "Lia",
