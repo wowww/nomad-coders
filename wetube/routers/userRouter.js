@@ -7,7 +7,6 @@ import {
   changePassword 
 } from "../controllers/userController";
 
-
 const userRouter = express.Router();
 
 // userRouter.get(routes.users, (req, res) => res.send("Users"));
